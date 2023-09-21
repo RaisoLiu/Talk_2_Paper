@@ -1,0 +1,4 @@
+api_key.py
+.venv
+*.pdf
+__pycache__
